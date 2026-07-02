@@ -1,132 +1,127 @@
 <div align="center">
 
-<!-- ================= CODE-STYLE HEADER (no image banner) ================= -->
+```java
+public class FarhanIslamRafid {
 
+    String role = "CS & Technology Student";
+
+    String[] interests = {
+        "Java",
+        "Web Development",
+        "LeetCode",
+        "AI",
+        "ESP32"
+    };
+
+    boolean learningEveryday = true;
+}
 ```
-╔══════════════════════════════════════════════════════════╗
-║                                                            ║
-║   class FarhanIslamRafid {                                ║
-║       String role   = "CS & Technology Student";          ║
-║       String[] loves = {"Java", "Web", "LeetCode", "AI"}; ║
-║       boolean learning = true;                             ║
-║   }                                                         ║
-║                                                            ║
-╚══════════════════════════════════════════════════════════╝
-```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=4FD1FF&center=true&vCenter=true&width=560&lines=Learning+Java+%F0%9F%92%BB;Building+Websites+%F0%9F%8C%90;Solving+LeetCode+%F0%9F%A7%A9;Exploring+AI+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FD1FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Technology+Student;Learning+Java+Every+Day;Building+Small+Projects;Solving+LeetCode;Exploring+AI+%26+ESP32" />
 
-<br/>
+<br>
 
-<img src="https://img.shields.io/badge/Status-Student-4fd1ff?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Always-Learning-2dd4bf?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Student-4FD1FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-Learner-2DD4BF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Learning-0EA5E9?style=for-the-badge"/>
 
 </div>
-
-<br/>
-
-## 👋 About Me
-
-Hi, I'm **Farhan** — a Computer Science & Technology student who enjoys programming and figuring things out one project at a time.
-
-- 🎓 I'm a CS & Technology student, still early in my journey.
-- ☕ I mainly write **Java** programs — it's the language I'm most comfortable with.
-- 🌐 I build **small websites** as a way to learn web development.
-- 🧩 I solve **LeetCode** problems to sharpen my problem-solving skills.
-- 🤖 I'm curious about **AI** and **ESP32** and like experimenting with small hardware/AI projects.
-- 🛠️ I enjoy building personal and college projects, even simple ones.
-- 📖 I'm learning something new almost every day — and that's the fun part.
-
-I'm not an expert, not a senior dev, not "full stack" yet — just a student who's practicing, exploring, and slowly improving. 🙂
-
-<br/>
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=4fd1ff"/>
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-0d1117?style=for-the-badge&logo=codeigniter&logoColor=4fd1ff"/>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0d1117?style=for-the-badge&logo=leetcode&logoColor=4fd1ff"/>
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-0d1117?style=for-the-badge&logo=git&logoColor=4fd1ff"/>
-<img src="https://img.shields.io/badge/AI%20Basics-0d1117?style=for-the-badge&logo=openai&logoColor=4fd1ff"/>
-<img src="https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=4fd1ff"/>
-
-</div>
-
-<br/>
-
-## 🚀 Projects
-
-**Lost & Found Website**
-A simple website created as a learning project.
-
-**College Website**
-A website developed for my college.
-
-**Nova AI**
-A personal AI voice assistant project using ESP32.
-
-**Java Practice**
-Small Java programs created while learning.
-
-**LeetCode Solutions**
-Java solutions for coding practice.
-
-<br/>
 
 ## 🧰 Tech Stack
 
-**Languages**
+<div align="center">
 
-<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=4fd1ff"/>
-<img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=4fd1ff"/>
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=4fd1ff"/>
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=4fd1ff"/>
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=4fd1ff"/>
+### Languages
 
-**Databases**
+<img src="https://skillicons.dev/icons?i=java,php,js,html,css" />
 
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4fd1ff"/>
+### Database
 
-**Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=4fd1ff"/>
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=4fd1ff"/>
-<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=4fd1ff"/>
-<img src="https://img.shields.io/badge/Arduino%20IDE-0d1117?style=for-the-badge&logo=arduino&logoColor=4fd1ff"/>
+### Tools
 
-**Currently Exploring**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
 
+### Learning
+
+<img src="https://skillicons.dev/icons?i=ai" />
 <img src="https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=4fd1ff"/>
-<img src="https://img.shields.io/badge/AI-0d1117?style=for-the-badge&logo=openai&logoColor=4fd1ff"/>
 
-<br/>
+</div>
 
-## 🎯 Goals
+## 🧰 Tech Stack
 
-- Become a better programmer.
-- Improve my problem-solving skills.
-- Learn software development properly.
-- Build useful, real applications.
-- Contribute to open-source projects in the future.
-- Keep learning new technologies.
+<div align="center">
 
-<br/>
+<img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,git,github,vscode,arduino" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif"/>
+<img src="https://img.shields.io/badge/AI-Learning-blue?style=for-the-badge"/>
+
+</div>
+
+## 🚀 Projects
+
+| Project | Description |
+|---------|-------------|
+| 🔍 Lost & Found | Learning project built using PHP & MySQL |
+| 🏫 College Website | Website developed for my college |
+| 🤖 Nova AI | ESP32 based AI Voice Assistant |
+| ☕ Java Practice | Java programs while learning |
+| 🧩 LeetCode | Java solutions for coding practice |
+
+
 
 ## 📫 Reach Me
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=4fd1ff"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4fd1ff"/></a>
-<a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=4fd1ff"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=4fd1ff"/></a>
+<a href="https://github.com/Farhan-Islam-Rafid">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://facebook.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=facebook"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
 </div>
 
-<br/>
+## 📊 GitHub Stats
 
 <div align="center">
-<i>Thanks for stopping by — always happy to connect with fellow learners. 🌱</i>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Farhan-Islam-Rafid&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-Islam-Rafid&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Farhan-Islam-Rafid&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Farhan-Islam-Rafid/Farhan-Islam-Rafid/output/github-contribution-grid-snake.svg"/>
+</p>
+
