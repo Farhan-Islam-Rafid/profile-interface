@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="./assets/banner.svg" alt="Farhan Islam Rafid Banner" width="100%" />
+
+</div>
+
+
+
+<div align="center">
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FD1FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Technology+Student;Learning+Java+Every+Day;Building+Small+Projects;Solving+LeetCode;Exploring+AI+%26+ESP32" />
 
