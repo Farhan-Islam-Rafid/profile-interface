@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,git,github,vscode,bootstrap" />
 
 <br><br>
 
@@ -38,38 +38,42 @@
 
 
 
-## 📫 Reach Me
+## 📫 Connect with Me
 
 <div align="center">
 
-<a href="https://github.com/Farhan-Islam-Rafid">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/Farhan-Islam-Rafid" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="48" />
 </a>
+&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
 </a>
+&nbsp;&nbsp;
 
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<a href="https://www.instagram.com/YOUR_USERNAME/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="48" />
 </a>
+&nbsp;&nbsp;
 
-<a href="https://facebook.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=facebook"/>
+<a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="48" alt="Facebook" />
 </a>
+&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
 </a>
 
 </div>
 
+---
 
-
-<br>
+## 📊 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Farhan-Islam-Rafid&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Farhan-Islam-Rafid&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
