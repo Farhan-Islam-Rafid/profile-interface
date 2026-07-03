@@ -59,18 +59,18 @@
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.instagram.com/YOUR_USERNAME/" target="_blank">
+<a href="https://www.instagram.com/farhan_islam_rafid/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="48" />
 </a>
 &nbsp;&nbsp;
 
-<a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+<a href="https://www.facebook.com/erafi.bd/" target="_blank">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" height="48" alt="Facebook" />
 </a>
 &nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+<a href="mailto:rafidfarhanislam@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" />
 </a>
 
 </div>
