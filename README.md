@@ -44,6 +44,17 @@
 | 🧩 LeetCode | Java solutions for coding practice |
 
 
+---
+
+## 📊 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Farhan-Islam-Rafid&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+
 
 ## 📫 Connect with Me
 
@@ -75,12 +86,3 @@
 
 </div>
 
----
-
-## 📊 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Farhan-Islam-Rafid&theme=tokyonight&hide_border=true&border_radius=10" />
-
-</div>
