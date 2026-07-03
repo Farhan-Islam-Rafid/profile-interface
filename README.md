@@ -31,7 +31,6 @@
 | Project | Description |
 |---------|-------------|
 | 🔍 Lost & Found | Learning project built using PHP & MySQL |
-| 🏫 College Website | Website developed for my college |
 | 🤖 Nova AI | ESP32 based AI Voice Assistant |
 | ☕ Java Practice | Java programs while learning |
 | 🧩 LeetCode | Java solutions for coding practice |
